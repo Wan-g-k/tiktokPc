@@ -1,0 +1,19 @@
+<svg id="组_429" data-name="组 429" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="133.512" height="6.04" viewBox="0 0 133.512 6.04">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.038" y1="1" x2="1.195" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#9cc9ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d9e7f8"/>
+      <stop offset="1" stop-color="#416490"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.403" y1="0.5" x2="-0.11" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#416490"/>
+      <stop offset="1" stop-color="#afccf2"/>
+    </linearGradient>
+  </defs>
+  <rect id="矩形_178" data-name="矩形 178" width="114.773" height="6.04" rx="3.02" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  <ellipse id="椭圆_9" data-name="椭圆 9" cx="2.928" cy="3.02" rx="2.928" ry="3.02" transform="translate(119.458 0)" fill="url(#linear-gradient-2)"/>
+  <ellipse id="椭圆_10" data-name="椭圆 10" cx="2.928" cy="3.02" rx="2.928" ry="3.02" transform="translate(127.656 0)" fill="url(#linear-gradient-3)"/>
+</svg>
